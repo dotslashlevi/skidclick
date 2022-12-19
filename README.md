@@ -1,4 +1,4 @@
-# skidclick
+# skidclick - made in 5 mins
 My terrible *visual basic* autoclicker that somehow improves a youtube tutorial. Its sad.
 
 # Features
@@ -12,7 +12,7 @@ dogwater gui
 
 enjoy :)
 
-# How to build
+# How to build!?!??!
 Get VS2022 and the .net desktop devel package.
 
 Clone the project.

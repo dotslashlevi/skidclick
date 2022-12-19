@@ -11,3 +11,12 @@ Holding left click clicks 4 u
 dogwater gui
 
 enjoy :)
+
+# How to build
+Get VS2022 and the .net desktop devel package.
+
+Clone the project.
+
+double click the .sln file
+
+skid away and build by pressing the green play button.

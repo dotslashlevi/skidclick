@@ -39,9 +39,9 @@ Public Class SkidClick
 
         Dim maxval As Integer
 
-        maxval = 950 / MaxValBar.Value
+        maxval = 925 / MaxValBar.Value
 
-        minval = 950 / MinValBar.Value
+        minval = 925 / MinValBar.Value
 
 
 
